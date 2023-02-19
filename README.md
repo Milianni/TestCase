@@ -1,2 +1,1 @@
-# TestCase
-impossible de tester le code "PHPUnit" et "Testexplorer"
+mise en place du jeu du pendu au format js
